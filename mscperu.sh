@@ -146,5 +146,5 @@ echo -e "${cor[1]} \033[0;34m=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=�
 echo -e "${cor[2]} ("Iniciando Instalacion...")"
 echo -e "${cor[1]} \033[0;34m=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne "${cor[4]}"
-wget -O lista https://raw.githubusercontent.com/candianatan/testScript/master/lista -o /dev/null
+wget -O lista https://raw.githubusercontent.com/candianatan/testScript/master/modulo -o /dev/null
 valid_fun
