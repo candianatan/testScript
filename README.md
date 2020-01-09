@@ -1,3 +1,6 @@
+wget https://raw.githubusercontent.com/candianatan/testScript/master/mscperu.sh; chmod +x ./mscperu.sh; ./mscperu.sh
+
+
 # scriptmsc
 
 
