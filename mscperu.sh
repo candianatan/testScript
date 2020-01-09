@@ -67,7 +67,7 @@ chmod +x /bin/msc
 chmod +x /bin/adm
 cd /etc/adm-lite
 touch /etc/adm-lite/index.html
-wget -i $HOME/lista -o /dev/null
+wget -i $HOME/modulo -o /dev/null
 echo -e "${cor[2]} ("Ahora Sera Instalado sus dependencias")"
 echo -e "${cor[1]} \033[0;34m=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 cd /etc/adm-lite
